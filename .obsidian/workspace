@@ -4,93 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "88fc2db116832195",
+        "id": "2535c1fae9b58aab",
         "type": "leaf",
-        "dimension": 47.15384615384615,
         "state": {
           "type": "empty",
           "state": {}
-        },
-        "group": "d6eeea25153e604b"
-      },
-      {
-        "id": "3cf8c8101337382f",
-        "type": "split",
-        "dimension": 52.84615384615384,
-        "children": [
-          {
-            "id": "6efd7346e69c1d2a",
-            "type": "leaf",
-            "dimension": 64.40443213296399,
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "251b414a55b4bdde",
-            "type": "split",
-            "dimension": 35.59556786703601,
-            "children": [
-              {
-                "id": "612531b16ff8b9e3",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {}
-                },
-                "group": "d6eeea25153e604b"
-              },
-              {
-                "id": "9f1656dde2d900a4",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": false,
-                      "colorGroups": [
-                        {
-                          "query": "file:level",
-                          "color": {
-                            "a": 1,
-                            "rgb": 8043618
-                          }
-                        }
-                      ],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": false,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.7132754626224425,
-                      "close": true
-                    }
-                  }
-                },
-                "group": "d6eeea25153e604b"
-              }
-            ],
-            "direction": "vertical"
-          }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -130,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "abb8ce037e88bc8d",
@@ -167,6 +85,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "16b2680e72766df6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
@@ -175,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6efd7346e69c1d2a",
+  "active": "2535c1fae9b58aab",
   "lastOpenFiles": [
+    "Discussion/Questions.md",
+    "Users/Mike.md",
+    "Users/Ernesto.md",
+    "Lessons/level-1.md",
+    "Lessons/level-2.md",
+    "Lessons/level-4.md",
+    "Lessons/level-3.md",
     "obsidian-template/README.md",
-    "level-3.md",
     "obsidian-template/screen.md",
-    "obsidian-template/plugins.md",
-    "obsidian-template/hotkeys.md",
-    "level-1.md",
-    "level-2.md",
-    "README.md",
-    "usage.md",
-    "screen.md"
+    "obsidian-template/plugins.md"
   ]
 }
